@@ -1,2 +1,3 @@
 # sample-repository-
-Learning
+This is simple repository
+we have edited the file
